@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cf9b29543732fdd1069b245db5445b9fd1ac4c06">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_53b5b625ae0e9be8e00104976251b2b620019423.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/guava-18.0_a896533dfbc230282abb7e720d012866cf74620f.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/gson-2.3_f35648c23e5567ac8edb0e399dd78c08c715dbcd.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4f00f3b3fa7079a867b8bd103bb2f38afe090dc3">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/instant-run_5a907d39dc41d5abe7be9ae83d445d254ee8e0a4.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_62bae15f6092a645ca9ba2c80d73eaa5a87bfdd2.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.6.1/d9521f2aecb909835746b7a5facf612af5e890e8/protobuf-java-2.6.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/protobuf-java-2.6.1_1371d678d1bda487e7338b0772623c5800fc1429.jar" />
+    </item>
+    <item
+        jar="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/exploded-aar/com.openxcplatform/library/6.1.6/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bf30d75f91600b77f7f381cd957c8fc754501221">
+        <dex dex="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/pre-dexed/debug/com.openxcplatform-library-6.1.6_57652de32cdf4a53c055777a66b37edc4cad8e1c.jar" />
+    </item>
+
+</items>

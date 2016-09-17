@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="348133077879671"
+    token="8154546580760717890" >
+
+    <task
+        name="javac"
+        duration="3495" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="127" />
+    <task
+        name="verifier"
+        duration="10" />
+
+    <artifact
+        location="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="348133077879671" >
+        <artifact
+            location="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

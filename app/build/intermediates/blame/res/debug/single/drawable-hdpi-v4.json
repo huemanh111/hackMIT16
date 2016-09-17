@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/openxc-starter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/openxc-starter/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
