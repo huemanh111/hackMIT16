@@ -4,29 +4,29 @@
     api-level="19"
     density="xxhdpi"
     format="7"
-    timestamp="348133077879671"
+    timestamp="352318231946224"
     token="8154546580760717890" >
 
     <task
         name="javac"
-        duration="3495" />
+        duration="1027" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="127" />
+        duration="144" />
     <task
         name="verifier"
-        duration="10" />
+        duration="12" />
 
     <artifact
-        location="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/outputs/apk/app-debug.apk"
+        location="/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="348133077879671" >
+    <build timestamp="352318231946224" >
         <artifact
-            location="/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/outputs/apk/app-debug.apk"
+            location="/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

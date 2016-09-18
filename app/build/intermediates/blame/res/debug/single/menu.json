@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/build/intermediates/res/merged/debug/menu/starter.xml",
+        "source": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/src/main/res/menu/starter.xml"
+    },
+    {
         "merged": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/openxc-starter/app/build/intermediates/res/merged/debug/menu/starter.xml",
         "source": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/openxc-starter/app/src/main/res/menu/starter.xml"
     },

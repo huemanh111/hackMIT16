@@ -6,5 +6,9 @@
     {
         "merged": "/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/res/merged/debug/drawable-mdpi-v11/openxc_notification_icon_small_white.png",
         "source": "/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/build/intermediates/exploded-aar/com.openxcplatform/library/6.1.6/res/drawable-mdpi-v11/openxc_notification_icon_small_white.png"
+    },
+    {
+        "merged": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/build/intermediates/res/merged/debug/drawable-mdpi-v11/openxc_notification_icon_small_white.png",
+        "source": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/build/intermediates/exploded-aar/com.openxcplatform/library/6.1.6/res/drawable-mdpi-v11/openxc_notification_icon_small_white.png"
     }
 ]

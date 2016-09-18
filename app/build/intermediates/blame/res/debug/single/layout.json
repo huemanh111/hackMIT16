@@ -4,6 +4,10 @@
         "source": "/Users/EricaKok/AndroidStudioProjects/openxc-starter/app/src/main/res/layout/activity_starter.xml"
     },
     {
+        "merged": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/build/intermediates/res/merged/debug/layout/activity_starter.xml",
+        "source": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/app/src/main/res/layout/activity_starter.xml"
+    },
+    {
         "merged": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/openxc-starter/app/build/intermediates/res/merged/debug/layout/activity_starter.xml",
         "source": "/Users/EricaKok/AndroidStudioProjects/hackMIT16/openxc-starter/app/src/main/res/layout/activity_starter.xml"
     }
